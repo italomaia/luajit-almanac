@@ -10,7 +10,13 @@
 
 ## A Bit Of History
 
+## Is LuaJIT Dead?
+
 # Forks
+
+* (RaptorJIR)[https://github.com/raptorjit/raptorjit]
+* (LuaJIT2)[https://github.com/openresty/luajit2]
+* (LuaVela)[https://github.com/iponweb/luavela]
 
 ## Why Fork
 
