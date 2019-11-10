@@ -35,6 +35,7 @@ The most widespread and used, to date, approach to improve Lua code performance 
 * [RaptorJIR](https://github.com/raptorjit/raptorjit)
 * [LuaJIT2](https://github.com/openresty/luajit2)
 * [LuaVela](https://github.com/iponweb/luavela)
+* [MoonJIT](https://github.com/moonjit/moonjit)
 
 ## Why Fork
 
@@ -44,6 +45,12 @@ The most widespread and used, to date, approach to improve Lua code performance 
 
 # Benchmarks
 
+- http://luajit.org/performance.html
+- https://github.com/kostya/benchmarks
+- https://eklausmeier.wordpress.com/2016/04/05/performance-comparison-c-vs-lua-vs-luajit-vs-java/
+
 # Projects That Depend on LuaJIT
 
 # Links
+
+- [LjTools](https://github.com/rochus-keller/LjTools) - parser, browser, assembler and test VM for LuaJIT 2.0 bytecode
